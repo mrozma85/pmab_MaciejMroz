@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="OTOMOTO.Pages.ChangePhonePage"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d">
+    <ContentPage.Content>
+        <StackLayout Margin="10"
+                     VerticalOptions="CenterAndExpand">
+            <Label FontSize="Large"
+                   TextColor="#707070"
+                   HorizontalOptions="Center"
+                   Text="Czy chcesz dodac numer kontaktowy" />
+            <Entry Margin="20"
+                   Placeholder="Wpisz numer"
+                   Keyboard="Telephone"
+                   PlaceholderColor="#707070"
+                   x:Name="EntPhone" />
+            <Button Margin="20"
+                    BackgroundColor="#303F9F"
+                    TextColor="White"
+                    Text="Dodaj numer"
+                    x:Name="BtnAddPhone"
+                    Clicked="BtnAddPhone_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

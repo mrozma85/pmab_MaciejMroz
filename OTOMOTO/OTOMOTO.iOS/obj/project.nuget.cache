@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "7s9cCYzPxHiGBNyoVOZWHjqhdZNODwTSKSgL4amU0bSijBixxxLHHKP9zgJ2KVXxoXwKM3qbJv3C8HvlhJ4sjg==",
+  "success": true,
+  "projectFilePath": "C:\\Git_projekty\\pmab_MaciejMroz\\OTOMOTO\\OTOMOTO.iOS\\OTOMOTO.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrozm\\.nuget\\packages\\epoch.unix.timestamp\\2.0.0\\epoch.unix.timestamp.2.0.0.nupkg.sha512",
+    "C:\\Users\\mrozm\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\mrozm\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\mrozm\\.nuget\\packages\\webp.touch\\1.0.8\\webp.touch.1.0.8.nupkg.sha512",
+    "C:\\Users\\mrozm\\.nuget\\packages\\xam.plugin.imagearray\\1.0.0\\xam.plugin.imagearray.1.0.0.nupkg.sha512",
+    "C:\\Users\\mrozm\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
+    "C:\\Users\\mrozm\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\mrozm\\.nuget\\packages\\xamarin.ffimageloading\\2.4.11.982\\xamarin.ffimageloading.2.4.11.982.nupkg.sha512",
+    "C:\\Users\\mrozm\\.nuget\\packages\\xamarin.ffimageloading.forms\\2.4.11.982\\xamarin.ffimageloading.forms.2.4.11.982.nupkg.sha512",
+    "C:\\Users\\mrozm\\.nuget\\packages\\xamarin.ffimageloading.transformations\\2.4.11.982\\xamarin.ffimageloading.transformations.2.4.11.982.nupkg.sha512",
+    "C:\\Users\\mrozm\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
